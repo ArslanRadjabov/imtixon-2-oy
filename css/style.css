@@ -55,7 +55,9 @@ body {
   color: rgb(172, 168, 168);
 }
 
-
+.hero__btn{
+  border: none;
+}
 .hero {
   padding: 0 90px;
   width: 100vw;
@@ -857,7 +859,9 @@ body {
   background-color: #1b1d24;
   height: 550px;
 }
-
+.container__map{
+  padding: 0 100px;
+}
 .map {
   background-color: #1b1d24;
   height: 550px;
@@ -937,7 +941,9 @@ body {
   height: 1px;
   background-color: #ffffff1a;
 }
-
+.creative__main{
+  padding: 0 50px;
+}
 .creative__entry {
   position: relative;
   width: 304px;
